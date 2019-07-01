@@ -1,0 +1,65 @@
+*{
+   background-color: rgb(209, 199, 199);
+   
+}
+#bold{
+    background: rgb(172, 168, 168);
+    color: black;
+    border-radius: 2px;
+    height: 20px;
+    width: 25px;
+    cursor: pointer;
+  outline: none;
+  border: none;
+  box-shadow: 0 1px #999;
+  text-align: center;
+}
+#italic{
+    background: rgb(172, 168, 168);
+    color: black;
+    border-radius: 2px;
+    height: 20px;
+    width: 25px;
+    cursor: pointer;
+  outline: none;
+  border: none;
+  box-shadow: 0 1px #999;
+  text-align: center;
+}
+#underline{
+    background: rgb(172, 168, 168);
+    color: black;
+    border-radius: 2px;
+    height: 20px;
+    width: 70px;
+    cursor: pointer;
+  outline: none;
+  border: none;
+  box-shadow: 0 1px #999;
+  text-align: center;
+}
+#font{
+    background: rgb(172, 168, 168);
+    color: black;
+    border-radius: 2px;
+    height: 20px;
+    width: 70px;
+    cursor: pointer;
+  outline: none;
+  border: none;
+  box-shadow: 0 1px #999;
+  text-align: center;
+  
+}
+#size{
+    background: rgb(172, 168, 168);
+    color: black;
+    border-radius: 2px;
+    height: 20px;
+    width: 70px;
+    cursor: pointer;
+  outline: none;
+  border: none;
+  box-shadow: 0 1px #999;
+  text-align: center;
+}
